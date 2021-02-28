@@ -1,0 +1,151 @@
+Team,Name,3pt,2pt,Steal,Block,Tipoff,Conference
+Houston Rockets,James Harden,0.65,0.9,0.2,0.2,0,West
+Houston Rockets,Russell Westbrook,0.35,0.9,0.4,0.3,0,West
+Houston Rockets,Eric Gordon,0.47,0.72,0.2,0.3,0,West
+Houston Rockets,PJ Tucker,0.43,0.72,0.25,0.35,0,West
+Houston Rockets,Clint Capela,0.05,0.78,0.2,0.55,0.8,West
+Los Angeles Lakers,Rajon Rondo,0.28,0.75,0.45,0.2,0,West
+Los Angeles Lakers,Danny Green,0.5,0.75,0.25,0.3,0,West
+Los Angeles Lakers,LeBron James,0.42,0.9,0.3,0.6,0,West
+Los Angeles Lakers,Anthony Davis,0.28,0.85,0.2,0.5,0,West
+Los Angeles Lakers,JaVale McGee,0.05,0.78,0.2,0.55,0.8,West
+Los Angeles Clippers,Patrick Beverly,0.23,0.65,0.6,0.45,0,West
+Los Angeles Clippers,Lou Williams,0.38,0.78,0.25,0.2,0,West
+Los Angeles Clippers,Kawhi Leonard,0.55,0.9,0.7,0.7,0,West
+Los Angeles Clippers,Paul George,0.5,0.85,0.58,0.38,0,West
+Los Angeles Clippers,Ivica Zubac,0.05,0.68,0.25,0.5,0.7,West
+Denver Nuggets,Will Barton,0.47,0.75,0.35,0.3,0,West
+Denver Nuggets,Gary Harris,0.4,0.7,0.47,0.2,0,West
+Denver Nuggets,Jamal Murray,0.45,0.81,0.43,0.2,0,West
+Denver Nuggets,Paul Milsap,0.4,0.72,0.3,0.4,0,West
+Denver Nuggets,Nikola Jokic,0.38,0.85,0.35,0.38,0.77,West
+Utah Jazz,Joe Ingles,0.42,0.7,0.3,0.2,0,West
+Utah Jazz,Donovan Mitchell,0.45,0.87,0.5,0.23,0,West
+Utah Jazz,Bojan Bogdanovic,0.48,0.79,0.28,0.2,0,West
+Utah Jazz,Royce O'Neale,0.4,0.7,0.3,0.3,0,West
+Utah Jazz,Rudy Gobert,0.05,0.8,0.3,0.8,0.82,West
+Dallas Mavericks,Tim Hardaway Jr.,0.4,0.69,0.34,0.17,0,West
+Dallas Mavericks,Luka Doncic,0.6,0.86,0.48,0.17,0,West
+Dallas Mavericks,Dorian Finney-Smith,0.36,0.73,0.32,0.29,0,West
+Dallas Mavericks,Kristaps Prozingis,0.43,0.79,0.3,0.74,0,West
+Dallas Mavericks,Dwight Powell,0.2,0.75,0.43,0.46,0.75,West
+Oklahoma City Thunder,Chris Paul,0.44,0.8,0.6,0.2,0,West
+Oklahoma City Thunder,Shai Gilgeous-Alexander,0.42,0.82,0.5,0.3,0,West
+Oklahoma City Thunder,Dennis Schroder,0.43,0.79,0.3,0.25,0,West
+Oklahoma City Thunder,Danilo Gallinari,0.5,0.75,0.35,0.2,0,West
+Oklahoma City Thunder,Steven Adams,0.05,0.8,0.35,0.67,0.79,West
+Memphis Grizzlies,Ja Morant,0.35,0.85,0.5,0.2,0,West
+Memphis Grizzlies,Jae Crowder,0.37,0.75,0.5,0.3,0,West
+Memphis Grizzlies,Dillon Brooks,0.42,0.77,0.48,0.3,0,West
+Memphis Grizzlies,Jaren Jackson Jr.,0.45,0.79,0.34,0.65,0,West
+Memphis Grizzlies,Jonas Valanciunas,0.3,0.86,0.2,0.62,0.8,West
+San Antonio Spurs,Dejounte Murray,0.3,0.75,0.4,0.3,0,West
+San Antonio Spurs,Bryn Forbes,0.38,0.7,0.3,0.1,0,West
+San Antonio Spurs,DeMar DeRozan,0.28,0.8,0.5,0.3,0,West
+San Antonio Spurs,Trey Lyles,0.2,0.7,0.2,0.4,0,West
+San Antonio Spurs,LaMarcus Aldridge,0.4,0.78,0.35,0.7,0.79,West
+Phoenix Suns,Ricky Rubio,0.4,0.7,0.5,0.2,0,West
+Phoenix Suns,Devin Booker,0.45,0.8,0.3,0.2,0,West
+Phoenix Suns,Kelly Oubre Jr.,0.4,0.76,0.54,0.4,0,West
+Phoenix Suns,Dario Saric,0.38,0.72,0.4,0.3,0,West
+Phoenix Suns,Deandre Ayton,0.05,0.78,0.3,0.6,0.76,West
+Portland Trail Blazers,Damian Lillard,0.63,0.82,0.5,0.3,0,West
+Portland Trail Blazers,CJ McCollum,0.59,0.83,0.45,0.4,0,West
+Portland Trail Blazers,Rodney Hood,0.55,0.73,0.45,0.2,0,West
+Portland Trail Blazers,Carmelo Anthony,0.5,0.77,0.48,0.3,0,West
+Portland Trail Blazers,Hassan Whiteside,0.1,0.8,0.3,0.8,0.83,West
+New Orleans Pelicans,Lonzo Ball,0.4,0.73,0.5,0.3,0,West
+New Orleans Pelicans,Jrue Holiday,0.35,0.78,0.59,0.4,0,West
+New Orleans Pelicans,JJ Redick,0.5,0.7,0.2,0.2,0,West
+New Orleans Pelicans,Brandon Ingram,0.45,0.8,0.4,0.42,0,West
+New Orleans Pelicans,Derrick Favors,0.05,0.75,0.3,0.6,0.76,West
+Minnesota Timberwolves,Jeff Teague,0.35,0.72,0.3,0.25,0,West
+Minnesota Timberwolves,Jarrett Culver,0.28,0.7,0.4,0.3,0,West
+Minnesota Timberwolves,Andrew Wiggins,0.37,0.75,0.3,0.38,0,West
+Minnesota Timberwolves,Robert Covington,0.4,0.73,0.55,0.4,0,West
+Minnesota Timberwolves,Karl-Anthony Towns,0.45,0.75,0.5,0.46,0.81,West
+Sacramento Kings,De'Aaron Fox,0.3,0.76,0.5,0.35,0,West
+Sacramento Kings,Buddy Hield,0.45,0.73,0.32,0.2,0,West
+Sacramento Kings,Bogdan Bogdanovic,0.4,0.7,0.33,0.2,0,West
+Sacramento Kings,Harrison Barnes,0.35,0.72,0.3,0.1,0,West
+Sacramento Kings,Richard Holmes,0.05,0.77,0.48,0.5,0.77,West
+Golden State Warriors,D'Angelo Russell,0.48,0.75,0.4,0.25,0,West
+Golden State Warriors,Glenn Robinson III,0.37,0.72,0.43,0.2,0,West
+Golden State Warriors,Damion Lee,0.35,0.7,0.35,0.1,0,West
+Golden State Warriors,Draymond Green,0.23,0.69,0.5,0.4,0,West
+Golden State Warriors,Willie Cauley-Stein,0.05,0.73,0.44,0.5,0.78,West
+Milwaukee Bucks,Eric Bledsoe,0.36,0.76,0.4,0.28,0,East
+Milwaukee Bucks,Wesley Matthews,0.4,0.7,0.28,0.1,0,East
+Milwaukee Bucks,Khris Middleton,0.46,0.78,0.36,0.2,0,East
+Milwaukee Bucks,Giannis Atetokounmpo,0.34,0.83,0.38,0.37,0,East
+Milwaukee Bucks,Brook Lopez,0.33,0.75,0.3,0.7,0.83,East
+Miami Heat,Goran Dragic,0.45,0.75,0.3,0.2,0,East
+Miami Heat,Tyler Herro,0.43,0.73,0.33,0.1,0,East
+Miami Heat,Jimmy Butler,0.28,0.8,0.5,0.3,0,East
+Miami Heat,Meyers Leonard,0.34,0.72,0.1,0.3,0,East
+Miami Heat,Bam Adebayo,0.05,0.78,0.47,0.5,0.78,East
+Toronto Raptors,Kyle Lowry,0.45,0.8,0.47,0.3,0,East
+Toronto Raptors,Fred VanVleet,0.43,0.78,0.6,0.3,0,East
+Toronto Raptors,OG Anunoby,0.35,0.75,0.45,0.38,0,East
+Toronto Raptors,Pascal Siakam,0.38,0.82,0.43,0.43,0,East
+Toronto Raptors,Marc Gasol,0.3,0.74,0.4,0.43,0.83,East
+Boston Celtics,Kemba Walker,0.45,0.78,0.4,0.35,0,East
+Boston Celtics,Jaylen Brown,0.38,0.79,0.48,0.2,0,East
+Boston Celtics,Gordon Hayward,0.35,0.81,0.35,0.3,0,East
+Boston Celtics,Jayson Tatum,0.4,0.82,0.5,0.45,0,East
+Boston Celtics,Daniel Theis,0.28,0.77,0.36,0.53,0.77,East
+Indiana Pacers,Malcolm Brogdon,0.35,0.75,0.35,0.2,0,East
+Indiana Pacers,Jeremy Lamb,0.33,0.74,0.4,0.35,0,East
+Indiana Pacers,TJ Warren,0.36,0.76,0.38,0.35,0,East
+Indiana Pacers,Domantas Sabonis,0.25,0.77,0.35,0.39,0,East
+Indiana Pacers,Myles Turner,0.34,0.73,0.34,0.65,0.78,East
+Philadelphia 76ers,Ben Simmons,0.05,0.78,0.55,0.35,0,East
+Philadelphia 76ers,Josh Richardson,0.38,0.74,0.4,0.35,0,East
+Philadelphia 76ers,Tobias Harris,0.4,0.75,0.3,0.35,0,East
+Philadelphia 76ers,Al Horford,0.35,0.72,0.4,0.4,0,East
+Philadelphia 76ers,Joel Embiid,0.33,0.8,0.3,0.45,0.84,East
+Orlando Magic,Markelle Fultz,0.25,0.75,0.48,0.2,0,East
+Orlando Magic,Evan Fournier,0.38,0.77,0.42,0.2,0,East
+Orlando Magic,Johnathan Isaac,0.27,0.75,0.5,0.6,0,East
+Orlando Magic,Aaron Gordon,0.29,0.77,0.35,0.3,0,East
+Orlando Magic,Nikola Vucevic,0.35,0.79,0.4,0.4,0.79,East
+Brooklyn Nets,Kyrie Irving,0.4,0.82,0.5,0.3,0,East
+Brooklyn Nets,Joe Harris,0.45,0.77,0.35,0.27,0,East
+Brooklyn Nets,Spencer Diniwiddie,0.33,0.79,0.35,0.27,0,East
+Brooklyn Nets,Taurean Waler-Prince,0.37,0.73,0.4,0.33,0,East
+Brooklyn Nets,Jarrett Allen,0.05,0.75,0.35,0.5,0.79,East
+Chicago Bulls,Tomas Satoransky,0.3,0.75,0.45,0.1,0,East
+Chicago Bulls,Zach LaVine,0.4,0.8,0.48,0.36,0,East
+Chicago Bulls,Otto Porter,0.35,0.75,0.42,0.2,0,East
+Chicago Bulls,Lauri Markkanen,0.38,0.78,0.39,0.36,0,East
+Chicago Bulls,Wendell Carter Jr.,0.1,0.78,0.38,0.4,0.79,East
+Detroit Pistons,Derrick Rose,0.3,0.8,0.37,0.25,0,East
+Detroit Pistons,Bruce Brown,0.28,0.75,0.4,0.4,0,East
+Detroit Pistons,Luke Kennard,0.43,0.76,0.25,0.2,0,East
+Detroit Pistons,Blake Griffin,0.39,0.78,0.25,0.25,0,East
+Detroit Pistons,Andrew Drummond,0.05,0.8,0.5,0.58,0.82,East
+Charlotte Hornets,Terry Rozier,0.43,0.78,0.4,0.3,0,East
+Charlotte Hornets,Donte Grantham,0.45,0.74,0.35,0.2,0,East
+Charlotte Hornets,Miles Bridges,0.39,0.77,0.33,0.45,0,East
+Charlotte Hornets,PJ Washington,0.39,0.77,0.35,0.47,0,East
+Charlotte Hornets,Cody Zeller,0.28,0.79,0.33,0.35,0.8,East
+Washington Wizards,Isaiah Thomas,0.33,0.75,0.3,0.2,0,East
+Washington Wizards,Ish Smith,0.28,0.76,0.37,0.3,0,East
+Washington Wizards,Bradley Beal,0.38,0.79,0.45,0.25,0,East
+Washington Wizards,Rui Hachimura,0.24,0.77,0.35,0.1,0,East
+Washington Wizards,Davis Bertans,0.4,0.73,0.35,0.35,0.78,East
+Cleveland Cavaliers,Collin Sexton,0.3,0.78,0.35,0.1,0,East
+Cleveland Cavaliers,Darius Garland,0.35,0.75,0.32,0.05,0,East
+Cleveland Cavaliers,Cedi Osman,0.36,0.75,0.31,0.25,0,East
+Cleveland Cavaliers,Kevin Love,0.38,0.77,0.33,0.29,0,East
+Cleveland Cavaliers,Tristan Thompson,0.1,0.77,0.33,0.4,0.8,East
+New York Knicks,Elfrid Payton,0.2,0.73,0.43,0.3,0,East
+New York Knicks,RJ Barrett,0.33,0.77,0.4,0.35,0,East
+New York Knicks,Reggie Bullock,0.35,0.73,0.45,0.05,0,East
+New York Knicks,Julius Randle,0.34,0.77,0.38,0.2,0,East
+New York Knicks,Marcus Morris,0.38,0.76,0.38,0.35,0.79,East
+Atlanta Hawks,Trae Young,0.6,0.8,0.43,0.1,0,East
+Atlanta Hawks,Kevin Huerter,0.45,0.7,0.38,0.35,0,East
+Atlanta Hawks,DeAndre Hunter,0.35,0.73,0.33,0.2,0,East
+Atlanta Hawks,Jabari Parker,0.28,0.78,0.45,0.35,0,East
+Atlanta Hawks,John Collins,0.33,0.79,0.35,0.6,0.79,East
